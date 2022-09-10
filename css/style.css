@@ -1,0 +1,71 @@
+.site-name-1 {
+    color: #6C2DC7;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.site-name-2 {
+    font-size: 30px;
+    font-weight: 600;
+    background-color: #6C2DC7;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 10px;
+}
+
+.navbar-link {
+    font-size: 25px;
+    font-weight: 600;
+    margin-right: 10px;
+    text-decoration: none;
+    color: #6C2DC7;
+}
+
+.navbar-link:hover {
+    text-decoration: none;
+    pointer-events: fill;
+}
+
+.contain {
+    margin: 50px 80px;
+}
+
+.count-news {
+    background-color: white;
+    font-size: 30px;
+    font-weight: 700;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.category {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.categories a {
+    color: gray;
+}
+
+.categories :hover {
+    text-decoration: none;
+}
+
+.news-data-title {
+    font-weight: 700;
+}
+
+.news-data {
+    background-color: white;
+    border-radius: 10px;
+}
+
+.footer {
+    height: 20vh;
+    background-color: gray;
+}
+
+.footer p {
+    color: white;
+    padding-top: 80px;
+}
